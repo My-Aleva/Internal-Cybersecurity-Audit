@@ -50,10 +50,12 @@ Select the regulations and compliance standards that must be met, taking into ac
 
 
 
-## Botium Toys: Audit Analysis
-- Audit Analysis
-- Compliance Checklist
-- Controls Assessment
+## Botium Toys: Audit Analysis Results
+
+### Internal Cybersecurity Audit [PDF](https://github.com/My-Aleva/Internal-Cybersecurity-Audit/blob/main/Botium%20Toys-Audit%20Analysis%20.pdf)
+
+- Compliance Checklist [PDF](https://github.com/My-Aleva/Internal-Cybersecurity-Audit/blob/main/Compliance%20Checklist.pdf)
+- Controls Assessment [PDF](https://github.com/My-Aleva/Internal-Cybersecurity-Audit/blob/main/Controls%20Assessment.pdf)
 
 
 This scenario is based on a fictional company*
